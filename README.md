@@ -1,2 +1,2 @@
 # Christmascard
-I generated a Christmascard practing html.
+I generated a Christmas Card practing html.
